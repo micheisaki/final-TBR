@@ -1,0 +1,8 @@
+staj-backend/venv/
+staj-backend/__pycache__/
+staj-backend/.env
+staj-frontend/node_modules/
+staj-frontend/dist/
+staj-frontend/.env
+*.pyc
+.DS_Store
