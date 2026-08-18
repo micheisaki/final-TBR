@@ -12,7 +12,7 @@ import {
 import { useState, useRef } from 'react';
 import axios from 'axios';
 
-const API_URL = "http://192.168.1.116:8000"; // Kendi yerel IP adresinle değiştir
+const API_URL = "http://SENIN_IP_ADRESIN:8000"; // Kendi yerel IP adresinle değiştir
 
 export default function App() {
   const [token, setToken] = useState("");
